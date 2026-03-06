@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](README.eng.md) | [日本語](README.jp.md)
+[Português](README.md) | [日本語](README.jp.md)
 
 <br/>
 <img src="https://raw.githubusercontent.com/PHCGV/PHCGV/master/assets/ado-odo.gif">
@@ -12,12 +12,12 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=evuifv4s9n2fkai4qwyxop5lp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=evuifv4s9n2fkai4qwyxop5lp&redirect=true)
 
-### Site de portfólio: 
-<a href="https://phcgv.vercel.app"><span style="font-size: 1.5em;">Aqui! 📍</span></a>
+### Portfolio Website: 
+<a href="https://phcgv.vercel.app"><span style="font-size: 1.5em;">Here! 📍</span></a>
 
 <br/>
 
-### Linguagens de programação utilizadas: 
+### Programming Languages Used: 
 
 <br/>
 <div>
@@ -31,7 +31,7 @@
 </div>
 <br/>
 
-### Outras tecnologias:
+### Other Technologies:
 
 <code><img height="30" alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff"></code>
 <code><img height="30" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></code>
@@ -45,27 +45,24 @@
 <table>
     <thead align="center">
      <tr border:none;>
-      <td> <b> Projetos em destaque: 👌 </b> </td>
+      <td> <b> Featured Projects: 👌 </b> </td>
      </td>
     </thead>
     <tbody>
     <tr>
-     <td><a href="https://github.com/PHCGV/CRUD-Test-China"><b>Sistema CRUD para importações da China </b></a></td>
+     <td><a href="https://github.com/PHCGV/CRUD-Test-China"><b>CRUD System for China Imports</b></a></td>
     </tr>
     <tr>
-     <td><a href="https://github.com/PHCGV/Speedrun---Notification-System"><b>Speedrun de sistema de notificações</b></a></td>
+     <td><a href="https://github.com/PHCGV/Speedrun---Notification-System"><b>Notification System Speedrun</b></a></td>
     </tr>
     <tr>
-     <td><a href="https://github.com/PHCGV/picpay-desafio-Backend"><b>Desafio Backend do Picpay</b></a></td>
+     <td><a href="https://github.com/PHCGV/picpay-desafio-Backend"><b>Picpay Backend Challenge</b></a></td>
     </tr>
-     <td><a href="https://github.com/PHCGV/Gerenciamento-de-registros.Java"><b>Gerenciamento de registros em Java</b></a></td>
+     <td><a href="https://github.com/PHCGV/Gerenciamento-de-registros.Java"><b>Record Management in Java</b></a></td>
     </tr>
     <tr>
-     <td><a href="https://github.com/PHCGV/Leetcodes-and-others"><b>Leetcodes e outros códigos de teste</b></a></td>
+     <td><a href="https://github.com/PHCGV/Leetcodes-and-others"><b>Leetcodes and Other Test Codes</b></a></td>
     </tr>
     </tbody>
 </table>
 </div>
-    
-     
-    
