@@ -25,6 +25,7 @@
 <img height="35" alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
 <img height="35" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
 <img height="35" alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
+<img height="35" alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF"/>
 <img height="35" alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
 <img height="35" alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
 <img height="35" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
