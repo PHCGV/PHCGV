@@ -4,7 +4,7 @@ Desenvolvedor full stack e estudante de Engenharia de Computação no SENAI CIMA
 
 ## Case profissional para explorar primeiro
 
-**[Chamados com IA na Yotech](https://phcgv.vercel.app/?lang=pt&mode=reading#chamados-ia)** — projeto desenvolvido dentro da empresa, com sistema e código privados. O case explica minha contribuição no fluxo entre conversas, OpenAI, validação e persistência. [Exemplos ilustrativos com dados fictícios](https://phcgv.vercel.app/demo/), respostas simuladas e limites explícitos; não representam precisão medida de um LLM.
+**[Chamados com IA na Yotech](https://phcgv.vercel.app/?lang=pt&mode=reading#chamados-ia)** — projeto desenvolvido dentro da empresa, com sistema e código privados. O case explica minha contribuição no fluxo entre conversas, OpenAI, validação e persistência.
 
 No trabalho, contribuí para o fluxo de uma plataforma de chamados com OpenAI usada no atendimento de mais de dez clínicas e pela equipe interna. Também desenvolvi automações com LLMs, documentos, Trello, Redis e QStash. Os sistemas são coletivos e privados; os cases identificam minha contribuição e os limites dos resultados.
 
