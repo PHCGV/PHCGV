@@ -60,10 +60,10 @@
     </thead>
     <tbody>
     <tr>
-     <td><a href="https://phcgv.vercel.app/?lang=pt&amp;mode=reading#chamados-ia"><b>Chamados com IA — Yotech · case profissional, código privado</b></a></td>
+     <td><a href="https://phcgv.vercel.app/?lang=pt&amp;mode=reading#chamados-ia"><b>Chamados com IA Yotech · código privado</b></a></td>
     </tr>
     <tr>
-     <td><a href="https://phcgv.vercel.app/?lang=pt&amp;mode=reading#automacoes"><b>Automações com LLMs, Trello e documentos — Yotech · case profissional</b></a></td>
+     <td><a href="https://phcgv.vercel.app/?lang=pt&amp;mode=reading#automacoes"><b>Automações com LLMs e documentos Yotech · código privado</b></a></td>
     </tr>
     <tr>
      <td><a href="https://github.com/PHCGV/CRUD-Test-China"><b>Sistema CRUD para importações da China </b></a></td>
