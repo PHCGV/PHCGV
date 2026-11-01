@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=evuifv4s9n2fkai4qwyxop5lp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=evuifv4s9n2fkai4qwyxop5lp&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=evuifv4s9n2fkai4qwyxop5lp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Site de portfólio: 
 <a href="https://phcgv.vercel.app"><span style="font-size: 1.5em;">Aqui! 📍</span></a>
