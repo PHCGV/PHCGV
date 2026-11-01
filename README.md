@@ -39,6 +39,15 @@
 <code><img height="30" alt="Spring boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"></code>
 <code><img height="30" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"></code>
 <code><img height="30" alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic"></code>
+<code><img height="30" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991"></code>
+<code><img height="30" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></code>
+<code><img height="30" alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></code>
+<code><img height="30" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></code>
+<code><img height="30" alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"></code>
+<code><img height="30" alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"></code>
+<code><img height="30" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></code>
+<code><img height="30" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></code>
+<code><img height="30" alt="QStash" src="https://img.shields.io/badge/QStash-00E9A3"></code>
 </div>
 
 </br>
@@ -50,6 +59,12 @@
      </td>
     </thead>
     <tbody>
+    <tr>
+     <td><a href="https://phcgv.vercel.app/?lang=pt&amp;mode=reading#chamados-ia"><b>Chamados com IA — Yotech · case profissional, código privado</b></a></td>
+    </tr>
+    <tr>
+     <td><a href="https://phcgv.vercel.app/?lang=pt&amp;mode=reading#automacoes"><b>Automações com LLMs, Trello e documentos — Yotech · case profissional</b></a></td>
+    </tr>
     <tr>
      <td><a href="https://github.com/PHCGV/CRUD-Test-China"><b>Sistema CRUD para importações da China </b></a></td>
     </tr>
